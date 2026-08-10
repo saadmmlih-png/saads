@@ -1,8 +1,8 @@
 {
-  "BOT_NAME": "بوت الأسطورة Pro",
+  "BOT_NAME": "بوت الأسطورة",
   "PREFIX": "/",
   "ADMIN_IDS": [
-    "100085492819201"
+    "61591257184963"
   ],
   "GEMINI_API_KEY": "YOUR_GEMINI_API_KEY_HERE",
   "LANGUAGE": "ar",
